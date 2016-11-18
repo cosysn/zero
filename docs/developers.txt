@@ -33,6 +33,12 @@ src/
 
 test/ 
 	主要包括Zero的UT/IT/ST的测试用例，减少BUG的数量
+	
+[开发模型]
+使用git-flow这套经过实践检验过的开发模型，用来提高开发的效率。关于git-flow的详情请见：
+1. A successful Git branching model http://nvie.com/posts/a-successful-git-branching-model/
+2. git-flow 备忘清单 http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
+3. 基于git的源代码管理模型——git flow http://www.ituring.com.cn/article/56870
 
 [编码规范]
 遵循Python的PEP8的编码规范，更多详情请看https://www.python.org/dev/peps/pep-0008/
